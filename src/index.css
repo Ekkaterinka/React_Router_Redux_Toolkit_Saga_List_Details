@@ -1,0 +1,9 @@
+.Eror {
+  background-color: rgb(218, 163, 163);
+  color:  rgb(77, 30, 30);
+}
+button {
+  background-color:  rgb(78, 24, 24);
+  color: white;
+  cursor: pointer;
+}
